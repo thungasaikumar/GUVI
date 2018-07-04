@@ -2,7 +2,7 @@ a=input()
 b=input()
 c=input()
 if a.isalpha() or b.isalpha() or c.isalpha():
-    print("invalid")
+    print("Invalid")
 a=int(a)
 b=int(b)
 c=int(c)
