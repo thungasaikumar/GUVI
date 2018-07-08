@@ -9,7 +9,7 @@ else:
         z=y%10;
         arm=arm+(z**3)
         y=int(y/10)
-    print(arm)
+  
     if arm==x:
         print("yes")
     else:
