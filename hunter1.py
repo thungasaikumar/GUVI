@@ -18,4 +18,4 @@ else:
                     count=count+1
                     
             if count!=0:
-                print (x[i])
+                print (int(x[i]))
