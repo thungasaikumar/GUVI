@@ -1,2 +1,3 @@
-a=str(input())
-print(a[::-1])
+x=input()
+x=str(x)
+print(x[::-1])
